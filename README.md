@@ -1,4 +1,4 @@
 # netflixfetch
 
-this is the firebase link to netflix frontend using reactjs
+this is the firebase link to netflix
 https://netflix-clone-a72be.web.app/
